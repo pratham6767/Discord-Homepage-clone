@@ -10,6 +10,4 @@ module.exports = {
     Ginto:["Ginto"],
     ggSans:["ggSans"],
   },
-
 }
-
